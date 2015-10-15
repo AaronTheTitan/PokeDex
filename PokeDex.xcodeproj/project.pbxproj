@@ -12,6 +12,7 @@
 		91925E0D1BCF8A91005D2269 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91925E0B1BCF8A91005D2269 /* Main.storyboard */; };
 		91925E0F1BCF8A91005D2269 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91925E0E1BCF8A91005D2269 /* Assets.xcassets */; };
 		91925E121BCF8A91005D2269 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91925E101BCF8A91005D2269 /* LaunchScreen.storyboard */; };
+		91925E1A1BCF8CAF005D2269 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 91925E191BCF8CAF005D2269 /* pokemon.csv */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		91925E0E1BCF8A91005D2269 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		91925E111BCF8A91005D2269 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		91925E131BCF8A91005D2269 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91925E191BCF8CAF005D2269 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				91925E091BCF8A91005D2269 /* ViewController.swift */,
 				91925E0B1BCF8A91005D2269 /* Main.storyboard */,
 				91925E0E1BCF8A91005D2269 /* Assets.xcassets */,
+				91925E191BCF8CAF005D2269 /* pokemon.csv */,
 				91925E101BCF8A91005D2269 /* LaunchScreen.storyboard */,
 				91925E131BCF8A91005D2269 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			files = (
 				91925E121BCF8A91005D2269 /* LaunchScreen.storyboard in Resources */,
 				91925E0F1BCF8A91005D2269 /* Assets.xcassets in Resources */,
+				91925E1A1BCF8CAF005D2269 /* pokemon.csv in Resources */,
 				91925E0D1BCF8A91005D2269 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
